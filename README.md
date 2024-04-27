@@ -13,8 +13,11 @@ the project will plan for the upcoming influenza season.
 # Stakeholder Question
 ● Provide information to support a staffing plan, detailing what data can help inform the timing
 and spatial distribution of medical personnel throughout the United States.
+
 ● Determine whether influenza occurs seasonally or throughout the entire year. If seasonal,
 does it start and end at the same time (month) in every state?
+
 ● Prioritize states with large vulnerable populations. Consider categorizing each state as low-,
 medium-, or high-need based on its vulnerable population count.
+
 ● Assess data limitations that may prevent you from conducting your desired analyses.
