@@ -1,4 +1,6 @@
 # INFLUENZA_SEASON
+ <div class="col-md-4 mb-4">
+                    < <img src="img/Influenza Season .png" class="img-fluid rounded zoomable" alt="Portfolio Image 3">
 # Project Overview
 The United States has an influenza season where more people than usual
 suffer from the flu. Some people, particularly those in vulnerable populations, develop serious
