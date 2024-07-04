@@ -1,7 +1,7 @@
 # INFLUENZA_SEASON
 
  <div class="col-md-4 mb-4">
-                    < <img src="img/Influenza Season .png"width="400" height="122" class="img-fluid rounded zoomable" alt="Portfolio Image 3">
+                    < <img src="img/Influenza Season .png" class="img-fluid rounded zoomable" alt="Portfolio Image 3">
 
 
 
